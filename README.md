@@ -9,7 +9,6 @@ Bu proje aşağıdaki işlemleri içermektedir:
 - Eksik değer analizi ve doldurulması
 - Kategorik değişkenlerin dönüştürülmesi (encoding)
 - Veri ölçeklendirme ve normalizasyon
-- Özellik mühendisliği
 
 ## Kullanılan Teknolojiler
 - Python
